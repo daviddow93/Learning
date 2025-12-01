@@ -1,0 +1,1 @@
+The reason the book gives for learning about data structures and algorithms is that it's about adding tools to a toolbelt. They liken it to only having a hammer and seeing everything as a nail. 
